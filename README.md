@@ -8,5 +8,9 @@ we can see here, just from a **plane** , *transparency, depth, ripples, water re
 I was just using maths to make normals map, height, etcs...
 
 ![image](https://user-images.githubusercontent.com/8437841/143594622-f758e5b6-d3e0-4c9f-bd4c-77edd5fee891.png)
+![image](https://user-images.githubusercontent.com/8437841/143595240-ddee2651-734d-44cf-84ac-711426e00468.png)
 
 And with the inspector on unity engine, i can change many Properties as i want.
+
+
+
